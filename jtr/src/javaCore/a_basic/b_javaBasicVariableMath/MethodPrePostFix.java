@@ -3,6 +3,9 @@ package javaCore.a_basic.b_javaBasicVariableMath;
 public class MethodPrePostFix {
 
 	public MethodPrePostFix() {
+		
+		System.out.println("\n---[Java Arithmetic Operators - prefix/postfix]---");
+
 		// prefix
 		int a = 2;
 		int b = ++a; // a=3, b=3

@@ -4,7 +4,7 @@ public class JavaArithmeticOperatorsShorthand2 {
 
 	public JavaArithmeticOperatorsShorthand2(int number) {
 		
-		System.out.printf("\n\nJava Arithmetic Operators Short hand\n");
+		System.out.printf("\n---[Java Arithmetic Operators Short hand]---\n");
 		System.out.printf("number = " + number);
 
 		// +=
