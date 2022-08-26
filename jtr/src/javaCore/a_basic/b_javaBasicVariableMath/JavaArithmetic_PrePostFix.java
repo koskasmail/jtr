@@ -1,8 +1,8 @@
 package javaCore.a_basic.b_javaBasicVariableMath;
 
-public class MethodPrePostFix {
+public class JavaArithmetic_PrePostFix {
 
-	public MethodPrePostFix() {
+	public JavaArithmetic_PrePostFix() {
 		
 		System.out.println("\n---[Java Arithmetic Operators - prefix/postfix]---");
 

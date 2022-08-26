@@ -1,11 +1,10 @@
 package javaCore.a_basic.a_javaBasicVariable;
 
-
 public class A_javaBasicVariable {
-	
-/*
- * primitive variable
- */
+
+	/*
+	 * primitive variable
+	 */
 	public static int intCount = 0;
 
 	private boolean flage = false; // boolean
@@ -23,9 +22,9 @@ public class A_javaBasicVariable {
 	public A_javaBasicVariable() {
 		System.out.println("---[A_javaBasicVariable]------------");
 
-/*
- * variable declare
- */
+		/*
+		 * variable declare
+		 */
 		int intAge = 55; // integer
 		boolean blFlage = false; // boolean
 		char grade = 'A'; // char
@@ -33,9 +32,9 @@ public class A_javaBasicVariable {
 		String StSayHello = "Hello"; // String sequence of characters.
 		int hh = 16, mm = 34, ss = 34, ms = 55;
 
-/*
- * print
- */
+		/*
+		 * print
+		 */
 		System.out.println("integer " + intAge);
 		System.out.println("boolean " + blFlage);
 		System.out.println("char " + grade);
@@ -48,8 +47,7 @@ public class A_javaBasicVariable {
 		System.out.println("Short (16 bit / 2 byte) == " + Short.MIN_VALUE + " <--> " + Short.MAX_VALUE);
 		System.out.println("int / Integer (32 bit / 4 byte) == " + Integer.MIN_VALUE + " <--> " + Integer.MAX_VALUE);
 		System.out.println("Long (64 bit / 8 byte)  == " + Long.MIN_VALUE + " <--> " + Long.MAX_VALUE);
-		System.out.println(
-				"char / Character (16 bit / 2 byte)  == " + Character.MIN_VALUE + " <--> " + Character.MAX_VALUE);
+		System.out.println("char / Character (16 bit / 2 byte)  == " + Character.MIN_VALUE + " <--> " + Character.MAX_VALUE);
 
 		System.out.println("Float (32 bit / 4 byte) == " + Float.MIN_VALUE + " <--> " + Float.MAX_VALUE);
 		System.out.println("Double (64 bit / 8 byte) == " + Double.MIN_VALUE + " <--> " + Double.MAX_VALUE);
@@ -61,5 +59,4 @@ public class A_javaBasicVariable {
 
 		System.out.println("PI == " + PI);
 	}
-
 }

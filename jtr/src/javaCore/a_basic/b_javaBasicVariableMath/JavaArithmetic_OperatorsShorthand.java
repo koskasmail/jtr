@@ -1,8 +1,8 @@
 package javaCore.a_basic.b_javaBasicVariableMath;
 
-public class JavaArithmeticOperatorsShorthand {
+public class JavaArithmetic_OperatorsShorthand {
 
-	public JavaArithmeticOperatorsShorthand(int number) {
+	public JavaArithmetic_OperatorsShorthand(int number) {
 
 		System.out.println("\n---[Java Arithmetic Operators Short hand]---");
 		System.out.println("number = " + number);

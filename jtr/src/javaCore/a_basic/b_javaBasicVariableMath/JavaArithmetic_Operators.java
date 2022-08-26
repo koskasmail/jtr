@@ -1,8 +1,8 @@
 package javaCore.a_basic.b_javaBasicVariableMath;
 
-public class JavaArithmeticOperators {
+public class JavaArithmetic_Operators {
 
-	public JavaArithmeticOperators() {
+	public JavaArithmetic_Operators() {
 
 		System.out.println("\n---[Java Arithmetic Operators]---");
 

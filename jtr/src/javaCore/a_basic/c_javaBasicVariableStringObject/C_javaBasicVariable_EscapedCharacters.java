@@ -1,6 +1,6 @@
 package javaCore.a_basic.c_javaBasicVariableStringObject;
 
-public class C_javaBasicVariableCharEscapedCharacters {
+public class C_javaBasicVariable_EscapedCharacters {
 
 	//constant
 	private static final char b = '\b'; //backSpace
@@ -12,7 +12,7 @@ public class C_javaBasicVariableCharEscapedCharacters {
 	private static final char sq = '\''; //singleQuote
 	private static final char bs = '\\'; //backSlash
 	
-	public C_javaBasicVariableCharEscapedCharacters() {
+	public C_javaBasicVariable_EscapedCharacters() {
 		
 		System.out.println("b =" + b);
 		System.out.println("ff =" + ff);
